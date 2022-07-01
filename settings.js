@@ -5,11 +5,11 @@
 module.exports = {
 
     //your bot api key get it from botfather
-    bot_api_key: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    bot_api_key: "5584381358:AAEtt6Pj8DwzkXltiHSRI5ih8Dq6w07unpY",
 
     //Jiosaavn api url {url format will be same as following}
     // create your jiosaavn api from https://github.com/cachecleanerjeet/jiosaavnapi
-    jiosaavn_api_url: "https://jiosaavn-api.vercel.app/",
+    jiosaavn_api_url: "https://skjioapi.herokuapp.com/",
 
     // replace with your own musicder download url {url format will be same as following}
     // create your musicder from https://github.com/cachecleanerjeet/Musicder
