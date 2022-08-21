@@ -9,7 +9,7 @@ module.exports = {
 
     //Jiosaavn api url {url format will be same as following}
     // create your jiosaavn api from https://github.com/cachecleanerjeet/jiosaavnapi
-    jiosaavn_api_url: "https://skjioapi.herokuapp.com/",
+    jiosaavn_api_url: "https://jiosaavn-api.vercel.app/",
 
     // replace with your own musicder download url {url format will be same as following}
     // create your musicder from https://github.com/cachecleanerjeet/Musicder
