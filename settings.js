@@ -9,7 +9,7 @@ module.exports = {
 
     //Jiosaavn api url {url format will be same as following}
     // create your jiosaavn api from https://github.com/cachecleanerjeet/jiosaavnapi
-    jiosaavn_api_url: "https://jiosaavn-2022.vercel.app/",
+    jiosaavn_api_url: "https://jiosaavn-api.vercel.app/",
 
     // replace with your own musicder download url {url format will be same as following}
     // create your musicder from https://github.com/cachecleanerjeet/Musicder
@@ -25,3 +25,4 @@ module.exports = {
     help_message: "Created by <a href='https://tu.hin.life'>Tuhin Kanti Pal</a>.",
 
 };
+jiosaavn-api
